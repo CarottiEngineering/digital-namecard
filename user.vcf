@@ -7,7 +7,7 @@ ORG:Carotti Engineering;
 TITLE:Structural Engineer
 EMAIL;type=INTERNET;type=WORK;type=pref:Racarotti@yahoo.com
 TEL;type=WORK;type=VOICE:941 284 7856
-item1.ADR;type=WORK;type=pref:;;9124 58th Drive East\nBradenton; Florida;;;34202; United States
+item1.ADR;type=WORK;type=pref:;;9124 58th Drive East\nBradenton,Florida 34202; United States
 item1.X-ABADR:sg
 item2.URL;type=pref:carottiengineering.net
 item2.X-ABLabel:_$!<HomePage>!$_
